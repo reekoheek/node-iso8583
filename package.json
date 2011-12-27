@@ -10,7 +10,7 @@
   },
   "bugs": {
     "url": "https://github.com/reekoheek/node-iso8583/issues"
-  }
+  },
   "main": "./index",
   "engines": {
     "node": "*"
