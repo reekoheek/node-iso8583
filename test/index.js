@@ -1,5 +1,6 @@
-var ISO = require('./iso8583').ISO8583;
-var packager = require('./packager').packager;
+var ISOLIB = require('../');
+var ISO = ISOLIB.ISO8583;
+var packager = ISOLIB.defaultPackager;
 
 /*
 var msg = '080020200000008000000000000000013239313130303031';
