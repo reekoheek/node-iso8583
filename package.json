@@ -14,5 +14,8 @@
   "main": "./index",
   "engines": {
     "node": "*"
+  },
+  "dependencies": {
+    "bignum": "^0.9.0"
   }
 }
